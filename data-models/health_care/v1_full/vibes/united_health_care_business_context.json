@@ -1,0 +1,30 @@
+{
+    "business_context": {
+        "business_information": {
+            "business": "United Health Care",
+            "description": "nitedHealthcare is the largest health insurance carrier in the United States and a primary division of UnitedHealth Group, serving over 52 million members globally as of 2023. It provides comprehensive health benefit plans for employers, individuals, Medicare/Medicaid beneficiaries, and military families, partnering with extensive networks of doctors and hospitals. The company aims to make healthcare more affordable and accessible through diverse insurance products and digital tools.",
+            "industry_alignment": "Health Insurance Payer",
+            "core_business_processes": "",
+            "orgnaization_divisions": "",
+            "data_domains": "",
+            "common_business_jargons": "",
+            "operational_systems_of_records": "",
+            "industry_governing_body": ""
+        },
+        "model_conventions": {
+            "data_classification_levels": "restricted=restricted, confidential=confidential, internal=Internal, public=public",
+            "data_asset_naming_convention": "snake_case",
+            "primary_key_suffix": "_id",
+            "foreign_key_suffix": "",
+            "schema_prefix": "",
+            "tag_prefix": "e_",
+            "table_id_type": "BIGINT",
+            "boolean_format": "Boolean",
+            "date_format": "yyyy-MM-dd",
+            "timestamp_format": "yyyy-MM-dd'T'HH:mm:ss.SSSXXX",
+            "add_house_keeping_columns": "No",
+            "add_history_tracking_columns": "No"
+        },
+        "vibe_modeling_instructions": ""
+    }
+}
