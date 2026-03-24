@@ -1,4 +1,4 @@
--- DDL for Business: United Health Care | Version: 1 | Generated on: 2026-03-20 04:03:39
+-- DDL for Business:  health Care | Version: 1 | Generated on: 2026-03-20 04:03:39
 
 -- ========= FOREIGN KEYS =========
 ALTER TABLE `cmoore_customer_demos`.`eligibility`.`coverage` ADD CONSTRAINT `fk_eligibility_coverage_member_profile_id` FOREIGN KEY (`member_profile_id`) REFERENCES `cmoore_customer_demos`.`member`.`member_profile`(`member_profile_id`);;

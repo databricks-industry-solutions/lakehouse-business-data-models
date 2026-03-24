@@ -1,4 +1,4 @@
--- DDL for Business: United Health Care | Version: 1 | Generated on: 2026-03-20 04:03:39
+-- DDL for Business:  health Care | Version: 1 | Generated on: 2026-03-20 04:03:39
 
 CREATE CATALOG IF NOT EXISTS `cmoore_customer_demos`;
 

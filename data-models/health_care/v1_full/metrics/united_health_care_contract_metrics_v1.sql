@@ -1,4 +1,4 @@
--- Metric views for domain: contract | Business: United Health Care | Version: 1 | Generated on: 2026-03-20 04:07:47
+-- Metric views for domain: contract | Business:  health Care | Version: 1 | Generated on: 2026-03-20 04:07:47
 
 CREATE OR REPLACE VIEW `cmoore_customer_demos`.`_metrics`.`contract_agreement`
 WITH METRICS

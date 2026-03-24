@@ -1,4 +1,4 @@
--- Metric views for domain: pharmacy | Business: United Health Care | Version: 1 | Generated on: 2026-03-20 04:06:50
+-- Metric views for domain: pharmacy | Business:  health Care | Version: 1 | Generated on: 2026-03-20 04:06:50
 
 CREATE OR REPLACE VIEW `cmoore_customer_demos`.`_metrics`.`pharmacy_benefit_pharmacy`
 WITH METRICS

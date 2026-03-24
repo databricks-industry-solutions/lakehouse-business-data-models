@@ -1,4 +1,4 @@
--- Metric views for domain: shared | Business: United Health Care | Version: 1 | Generated on: 2026-03-20 04:08:31
+-- Metric views for domain: shared | Business:  health Care | Version: 1 | Generated on: 2026-03-20 04:08:31
 
 CREATE OR REPLACE VIEW `cmoore_customer_demos`.`_metrics`.`shared_alert`
 WITH METRICS

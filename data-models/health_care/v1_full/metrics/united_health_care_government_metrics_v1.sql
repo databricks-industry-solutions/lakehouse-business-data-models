@@ -1,4 +1,4 @@
--- Metric views for domain: government | Business: United Health Care | Version: 1 | Generated on: 2026-03-20 04:03:45
+-- Metric views for domain: government | Business:  health Care | Version: 1 | Generated on: 2026-03-20 04:03:45
 
 CREATE OR REPLACE VIEW `cmoore_customer_demos`.`_metrics`.`government_benefit_design_financial`
 WITH METRICS
